@@ -38,7 +38,7 @@ Flex sensors attached to the glove detect finger movements. The Arduino Uno proc
 
 ## Project Demonstration
 
-###Hardware Demonstration Video:
+Hardware Demonstration Video:
 - hardware.mp4
 
 ## Features
