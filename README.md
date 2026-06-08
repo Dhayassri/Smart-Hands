@@ -28,6 +28,14 @@ Communication between sign language users and non-sign language users can be cha
 
 Flex sensors attached to the glove detect finger movements. The Arduino Uno processes the sensor readings and maps them to predefined gestures. The recognized gesture is displayed as text on an LCD screen and transmitted via Bluetooth for voice output on a mobile device.
 
+## Images
+
+### Simulation
+![Simulation](images/simulation.png)
+
+### Hardware
+![Hardware](images/prototype.jpeg)
+
 ## Features
 
 * Real-time gesture recognition
