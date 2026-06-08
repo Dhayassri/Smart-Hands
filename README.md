@@ -65,8 +65,4 @@ Flex sensors attached to the glove detect finger movements. The Arduino Uno proc
 * Expanded gesture vocabulary
 * Cloud-based communication system
 
-## Contributors
 
-* Dhayas Sri R
-* Abirami V
-* Dibika A
